@@ -260,7 +260,7 @@ span{
 
 .skills-box:hover{
     background-color:var(--base-variant);
-    color:var(--secondary-text);
+    color:var(--text-color);
     border: 5px solid var(--accent-color);
     transform: scale(1.03);
 }
