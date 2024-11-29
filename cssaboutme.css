@@ -236,7 +236,7 @@ span{
 }
 
 .skills h2{
-    color: white;
+    color: var(--text-color);
 }
 
 .skills-container{
