@@ -5,7 +5,7 @@
     --text-color:#111528;
     --secondary-text:#0f1833;
     --primary-color: #74b3ce;
-    --accent-color:#6964c0;
+    --accent-color:#74b3ce;
 }
 .darkmode {
     --base-color: #000100;
@@ -60,6 +60,7 @@ header{
     display: none;
     transition: 0.5s ease;
     cursor: pointer;
+    margin-right: 3rem;
 }
 
 #menu-icon:hover{
@@ -111,6 +112,7 @@ section{
     font-size: 6rem;
     font-weight: 700;
     line-height: 1.3;
+    color: var(--text-color);
 }
 
 span{
