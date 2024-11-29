@@ -123,11 +123,13 @@ span{
     font-size: 4rem;
     margin-bottom: 1rem;
     font-weight: 700;
+    color: var(--text-color);
 }
 
 .home-content p{
     font-size: 1.6rem;
     text-align: justify;
+    color: var(--text-color);
 }
 
 
